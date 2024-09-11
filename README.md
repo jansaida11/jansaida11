@@ -2,9 +2,7 @@
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning DSA in java.
 - 💞️ I’m looking to collaborate on DSA in java.
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me jansaidashaik615@gmail.com
 
 <!---
 jansaida11/jansaida11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
